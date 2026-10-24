@@ -1,2 +1,1 @@
-# practice-note-support
-Public support and privacy information for Practice Note.
+Practice Note support site (GitHub Pages). Privacy policy: privacy/ (`?lang=ko|en`).
